@@ -4,8 +4,13 @@ This is a change on the master branch.
 Conflicting change done on master branch.
 New change done on the test branch. Another change made on the test branch.
 Conflict change on test branch.
+<<<<<<< HEAD
 Change made with GitExtensions on master branch.
 Change made using GitExtensions.
 Cerry Pick Change on master.
 New change done on the test branch.
 Test branch cherry pick.
+=======
+Change made using GitExtensions.
+Chery pick change on test branch.
+>>>>>>> test
