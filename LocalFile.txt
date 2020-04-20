@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is a file for the source control unit standard excercise 3. 
 This is a change to the file.
+=======
+This is a file for the source control unit standard excercise 3.
+
+This is a change made on GitHub.
+>>>>>>> ed5851d1c2e5f8326e7b58032dd6299724e9495e
