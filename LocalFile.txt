@@ -5,3 +5,4 @@ Conflicting change done on master branch.
 New change done on the test branch. Another change made on the test branch.
 Conflict change on test branch.
 Change made with GitExtensions on master branch.
+Change made using GitExtensions.
