@@ -1,6 +1,9 @@
 This is a file for the source control unit standard excercise 3. 
 This is a change to the file made locally. This is another change made remotely on the same line.
+<<<<<<< HEAD
 This is a change on the master branch.
 Conflicting change done on master branch.
+=======
 New change done on the test branch. Another change made on the test branch.
 Conflict change on test branch.
+>>>>>>> test
